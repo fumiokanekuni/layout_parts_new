@@ -3,3 +3,23 @@
 /* 回答はここに書いてね */
 
 /* 回答はここに書いてね */
+.q2{
+    width: 900px;
+    padding: 20px;
+    background-color: #eff3f4;
+    margin: 0 auto;
+}
+.q2__thumb.is-left{
+    margin-right: 20px;
+    margin-bottom: 10px;
+    float: left;
+}
+.q2__thumb.is-right{
+    margin-left: 20px;
+    margin-bottom: 10px;
+    float: right;
+}
+.q2__text{
+    font-size: 18px;
+    line-height:22px;   
+}

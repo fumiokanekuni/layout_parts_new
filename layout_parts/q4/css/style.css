@@ -3,3 +3,55 @@
 /* 回答はここに書いてね */
 
 /* 回答はここに書いてね */
+.q4{
+    padding: 20px;
+}
+.q4-contents{
+    display: table;
+    width: 100%;
+}
+.cell-is-pink{
+    display: table-cell;
+    width: 100px;
+    background-color: #fdc8b8;
+    padding: 20px;
+    text-align: center;
+}
+.cell-is-purple{
+    display: table-cell;
+    background: #e0abd9;
+    padding: 20px;
+    text-align: center;
+}
+.cell-is-blue{
+    display: table-cell;
+    background-color: #b6d8ed;
+    width: 100px;
+    padding: 20px;
+    text-align: center;
+}
+    
+.q4-contents2{
+    display: table;
+    width: 100%;
+    margin-top: 20px;
+}
+.cell-is-yellow{
+    display: table-cell;
+    background-color: #e5d32e;
+    text-align: center;
+    padding: 20px;
+}
+.cell-is-red{
+    display: table-cell;
+    background-color: #ec8f9a;
+    text-align: center;
+    padding: 20px;
+}
+.cell-is-green{
+    display: table-cell;
+    background-color: #8fdcad;
+    text-align: center;
+    padding: 20px;
+    width: 500px;
+}
