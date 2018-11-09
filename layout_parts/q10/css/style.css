@@ -14,8 +14,6 @@
 .q10__balloon:before,
 .q10__balloon:after {
   position: absolute;
-  bottom: 0;
-  left: 0;
   width: 0;
   height: 0;
   border: 20px solid transparent;
@@ -29,6 +27,6 @@
 .q10__balloon:after {
   bottom: -38px;
   left: 30px;
-  border-top-color: #fff;
+  border-top-color: white;
 }
 

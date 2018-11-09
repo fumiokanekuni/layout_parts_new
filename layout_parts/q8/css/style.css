@@ -117,7 +117,7 @@
   width: 100%;
   padding: 5px;
   border-radius: 3px;
-  background-color: #FFF;
+  background-color: white;
   font-size: 12px;
   line-height: 12px;
   box-sizing: border-box;
@@ -125,13 +125,11 @@
 .q8__input:focus {
   box-shadow: 0 0 7px #00BCD4;
 }
-
 .q8__radio {
   cursor: pointer;
 }
-
 .q8__radio__btn {
-    display: none;
+  display: none;
 }
 .q8__radio__text {
   position: relative;
@@ -145,7 +143,7 @@
   width: 14px;
   height: 14px;
   margin-top: -8px;
-  background-color: #fff;
+  background-color: white;
   border: 1px solid #ccc;
   border-radius: 50%;
   content: '';
@@ -182,13 +180,12 @@
   width: 100%;
   padding: 5px;
   border-radius: 3px;
-  background-color: #FFF;
+  background-color: white;
   font-size: 12px;
   line-height: 12px;
   box-sizing: border-box;
   cursor: pointer;
 }
-
 .q8__checkbox {
   text-align: right;
 }
@@ -207,7 +204,7 @@
   width: 16px;
   height: 16px;
   margin-top: -9px;
-  background-color: #fff;
+  background-color: white;
   border: 1px solid #ccc;
   content: '';
 }
@@ -231,13 +228,13 @@
   padding: 0 10px;
   border-radius: 5px;
   background-color: #00BCD4;
-  color: #FFF;
+  color: white;
   cursor: pointer;
   font-size: 16px;
   line-height: 26px;
 }
 .q8__main__bottom__btn:active {
-  background-color: #FFF;
+  background-color: white;
   color: #00BCD4;
 }
 .q8__side {
@@ -249,7 +246,7 @@
   height: 203px;
   padding: 10px;
   border-radius: 3px;
-  background-color: #FFF;
+  background-color: white;
   font-size: 12px;
   box-sizing: border-box;
   resize: none;
