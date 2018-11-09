@@ -30,7 +30,7 @@
 
 .q6--around.is-table .q6-box-text{
     padding: 10px;
-    background-color: white;
+    background-color: #fff;
     display: inline-block;
 }
 .q6--around.is-flex{
@@ -41,7 +41,7 @@
 }
 .q6--around.is-flex .q6-box-text{
     padding: 10px;
-    background-color: white;
+    background-color: #fff;
     display:inline-block;
 }
 

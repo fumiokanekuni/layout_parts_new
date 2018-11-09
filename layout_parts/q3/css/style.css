@@ -3,36 +3,35 @@
 /* 回答はここに書いてね */
 
 /* 回答はここに書いてね */
-table { 
-    border-collapse:collapse; 
+table{
+  border-collapse:collapse;
 }
 .q3__contents {
   width: 100%;
   border: 1px solid #dedede;
   table-layout: fixed;
 }
-.q3__contents .date,
-.q3__contents .food {
+.q3__contents .item th,
+.q3__contents .date th {
   padding: 10px;
   border: 1px solid #dedede;
-  vertical-align: middle;
-}
-
-.q3__contents .date {
-  background-color: #2244aa;
-  color: white;
+  background-color: #24a;
+  color: #fff;
   font-size: 18px;
   line-height: 26px;
 }
-.q3__contents .food{
+.q3__contents .date td {
+  padding: 10px;
+  border: 1px solid #dedede;
+  line-height: 22px;
   text-align: center;
   font-size: 16px;
-  line-height: 22px;
 }
 
-.q3__contents tbody tr:nth-child(even) {
+.q3__contents .date tr:nth-child(even) {
   background-color: #ECF1F2;
 }
-.q3__contents tbody tr:last-child {
+.q3__contents .date tr:last-child {
   border-top: 2px dashed #000;
 }
+

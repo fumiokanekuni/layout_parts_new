@@ -34,15 +34,15 @@
 }
 .q8__btn--common {
   background-color: #00BCD4;
-  color: white;
+  color: #fff;
 }
 .q8__btn--error {
   background-color: #FF4081;
-  color: white;
+  color: #fff;
 }
 .q8__btn--disabled {
   background-color: #E5E5E5;
-  color: white;
+  color: #fff;
 }
 .q8__btn--shadow {
   box-shadow:  0 1px 6px rgba(0, 0, 0, .12), 0 1px 4px rgba(0, 0, 0, .12);
@@ -117,7 +117,7 @@
   width: 100%;
   padding: 5px;
   border-radius: 3px;
-  background-color: white;
+  background-color: #fff;
   font-size: 12px;
   line-height: 12px;
   box-sizing: border-box;
@@ -143,7 +143,7 @@
   width: 14px;
   height: 14px;
   margin-top: -8px;
-  background-color: white;
+  background-color: #fff;
   border: 1px solid #ccc;
   border-radius: 50%;
   content: '';
@@ -180,7 +180,7 @@
   width: 100%;
   padding: 5px;
   border-radius: 3px;
-  background-color: white;
+  background-color: #fff;
   font-size: 12px;
   line-height: 12px;
   box-sizing: border-box;
@@ -204,7 +204,7 @@
   width: 16px;
   height: 16px;
   margin-top: -9px;
-  background-color: white;
+  background-color: #fff;
   border: 1px solid #ccc;
   content: '';
 }
@@ -228,13 +228,13 @@
   padding: 0 10px;
   border-radius: 5px;
   background-color: #00BCD4;
-  color: white;
+  color: #fff;
   cursor: pointer;
   font-size: 16px;
   line-height: 26px;
 }
 .q8__main__bottom__btn:active {
-  background-color: white;
+  background-color: #fff;
   color: #00BCD4;
 }
 .q8__side {
@@ -246,7 +246,7 @@
   height: 203px;
   padding: 10px;
   border-radius: 3px;
-  background-color: white;
+  background-color: #fff;
   font-size: 12px;
   box-sizing: border-box;
   resize: none;
